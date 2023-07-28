@@ -1,0 +1,27 @@
+#Stuff { /*For ids you do a #*/
+    background-color: black;
+    color:white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.NoStuff { /*For class you do a dot .class*/
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+ol {
+    background-color:black;
+    color:white;
+}
+
+ul {
+    background-color: blue;
+    color: green;
+}
+ 
+body { /*Body tag affects every element in the website*/
+    background-color: salmon;
+}
